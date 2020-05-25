@@ -1,1 +1,2 @@
-# Stock-return-prediction-with-deep-learning
+# Stock return prediction with deep learning
+
