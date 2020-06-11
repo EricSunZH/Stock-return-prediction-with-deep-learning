@@ -1,6 +1,6 @@
 # Stock return prediction with deep learning
 
-This project aims to use long short term memory (LSTM) model to forecast the return of stocks.</br>
+This project aims to use long short-term memory (LSTM) model to forecast the return of stocks.</br>
 Time frame:</br>
 Train: 2000/1 - 2018/12</br>
 Test: 2019/1 - 2020/5</br>
